@@ -1,4 +1,4 @@
-## Hi there 👋
+## :musical_note: hi!
 
 <!--
 **kyiokoi/kyiokoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
