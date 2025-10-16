@@ -1,9 +1,12 @@
 ## :musical_note: kyiokoi's Github profile!
 
-Studying Applied AI & Analytics @ Nanyang Polytechnic
+I AM:
+- Studying Applied AI & Analytics @ Nanyang Polytechnic
+- Interested in creating fun projects
 
 
-~ Follow me on Instagram @ [kiyokyoi](https://www.instagram.com/kiyokyoi?igsh=MXdpcnI3ZHVqeTlqMg==) ~
+<small> Follow me on:
+Instagram @ [kiyokyoi](https://www.instagram.com/kiyokyoi?igsh=MXdpcnI3ZHVqeTlqMg==) </small>
 <!--
 **kyiokoi/kyiokoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
