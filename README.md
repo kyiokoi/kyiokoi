@@ -1,5 +1,9 @@
-## :musical_note: hi!
+## :musical_note: kyiokoi's Github profile!
 
+Studying Applied AI & Analytics @ Nanyang Polytechnic
+
+
+-# Follow me on Instagram @ [kiyokyoi](https://www.instagram.com/kiyokyoi?igsh=MXdpcnI3ZHVqeTlqMg==)
 <!--
 **kyiokoi/kyiokoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
